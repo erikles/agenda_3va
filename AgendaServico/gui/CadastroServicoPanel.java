@@ -13,7 +13,7 @@ public class CadastroServicoPanel extends JPanel {
 		setLayout(null);
 		
 		JLabel lblDescServico = new JLabel("Descri\u00E7\u00E3o do Servi\u00E7o");
-		lblDescServico.setFont(new Font("Tahoma", Font.BOLD, 11));
+		lblDescServico.setFont(new Font("Product Sans", Font.BOLD, 11));
 		lblDescServico.setBounds(10, 11, 117, 14);
 		add(lblDescServico);
 
